@@ -74,9 +74,10 @@ Resource: Anonymisation and pseudonymisation - https://www.dataprotection.ie/en/
 
 ## Misconception in My Track
 
+There is a common mistake that is going on to think that changing the username to a code or token makes the data anonymous. Using Pseudonymisation to hide the user info is the wrong way; the user still can be identified.
 
 
 
 ## Open Question
 
-
+How can we make sure anonymized chat logs cannot be used to identify citizens?
