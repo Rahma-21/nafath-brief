@@ -38,47 +38,27 @@ Resource: Preventing Insecure Network Connections - https://developer.apple.com/
 
 
 ## Networking
-IPv4 has 4.3 billion addresses, and most of them are assigned, while IPv6 has 340 trillion unique addresses. Why do we need IPv6? Because the number of devices that are connected to the internet is increasing, and every device needs an IP address, and because of the limitation of the number of IPv4 addresses, IPv6 has more addresses.
 
-Resource: Policy Brief: Adoption of IPv6 - https://www.internetsociety.org/policybriefs/ipv6/
 
 
 
 ## Cybersecurity
 
-Prompt Injection is letting an LLM or AI ignore a person's prompt and be replaced by an attacker's unknown intentions. This can be done by jailbreaking the system.
 
-Direct Prompt Injections: It happens when a malicious user overwrites the user’s prompts
-and this will let the attackers get the sensitive data of the user.
-
-Indirect Prompt Injections: It happens when an LLM accepts input from external sources that can be controlled by an attacker, such as websites or files. 
-
-Two ways to reduce the risk:
-1- By manually monitoring the LLM input and output.
-2- Add restrictions to the LLM, like requiring the user to accept the action before the LLM does it.
-
-Resource: LLM01: Prompt Injection - https://genai.owasp.org/llmrisk2023-24/llm01-24-prompt-injection/
 
 
 
 
 ## Data
 
-Anonymisation is like the user being anonymous, while pseudonymization replaces the user's name or email with a code or token.
 
-Which one takes the data outside the scope of data protection law?
-Anonymisation:effectively remove the possibility of identifying the person.  
-
-Resource: Anonymisation and pseudonymisation - https://www.dataprotection.ie/en/dpc-guidance/anonymisation-pseudonymisati
 
 
 ## Misconception in My Track
 
 
-There is a common mistake that is giong on to think that chaning the user name to a code ot token makes the data anonymous. Using Pseudonymisation to hide the user info is wrong way the user still can be identified.
 
 
 ## Open Question
-How can we make sure anonymized chat logs cannot be used to identify citizens?
 
 
