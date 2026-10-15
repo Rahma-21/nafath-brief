@@ -1,5 +1,5 @@
 Version: NAFATH-V3
-Track: <Data>
+Track: Data
 
 ## Overview
 
